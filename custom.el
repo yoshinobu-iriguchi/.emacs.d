@@ -12,7 +12,6 @@
  '(initial-buffer-choice ".")
  '(keyboard-coding-system (quote utf-8-dos))
  '(mode-require-final-newline (quote visit))
- '(server-auth-dir "~/.emacs.server/")
  '(server-mode t)
  '(server-window (quote switch-to-buffer-other-frame))
  '(show-trailing-whitespace t)
