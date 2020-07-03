@@ -14,3 +14,4 @@ elpa/
 .\#*
 .emacs.desktop
 server/
+recentf
