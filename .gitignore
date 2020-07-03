@@ -15,3 +15,5 @@ elpa/
 .emacs.desktop
 server/
 recentf
+UnicodeData.txt
+url/

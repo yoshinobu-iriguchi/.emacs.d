@@ -13,4 +13,4 @@
 ;; Coding system for terminal output:
 ;;   S -- japanese-shift-jis-dos (alias: shift_jis-dos sjis-dos)
 ;; になる
-(setq default-terminal-coding-system (quote utf-8-with-signature))
+(setq default-terminal-coding-system (quote utf-8-with-signature-dos))
