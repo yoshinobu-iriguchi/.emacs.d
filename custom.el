@@ -21,7 +21,6 @@
  '(package-enable-at-startup t)
  '(recentf-mode t)
  '(server-mode t)
- '(server-window (quote switch-to-buffer-other-frame))
  '(show-paren-mode t)
  '(show-trailing-whitespace t)
  '(tab-width 4)
@@ -41,7 +40,10 @@
                    [36 10])
      (tab-mark 9
                [187 9]
-               [92 9])))))
+               [92 9]))))
+ '(whitespace-style
+   (quote
+    (face trailing tabs empty indentation space-after-tab space-before-tab space-mark tab-mark))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
